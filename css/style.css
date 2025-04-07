@@ -1,0 +1,42 @@
+.header {
+    background-color: black;
+    color:white;
+    width: max-content;
+    height: max-content;
+}
+
+.hero-image {
+    width:100%;
+    height:400px;
+    object-fit: cover;
+ 
+}
+.container{
+    line-height: 2;
+
+}
+
+.ol {
+    background-color: aliceblue;
+    color:rgb(25, 11, 104);
+
+}
+
+#up {
+    color:orange;
+    transition: 4s ease;
+}
+
+#down {
+    color:orange;
+    transition: 4s ease;
+}
+
+.scrol-up {
+    color:orange;
+    transition: 4s ease;
+}
+.scrol-down {
+    color:orange;
+    transition: 4s ease;
+}
